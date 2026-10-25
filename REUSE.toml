@@ -14,7 +14,8 @@ version = 1
 path = [
     "**/AGENTS.md",
     "*.README.md",
-    "**/README.md"
+    "**/README.md",
+    "SKILL.md",
 ]
 SPDX-FileCopyrightText = '2026 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>'
 SPDX-License-Identifier = 'CC-BY-SA-4.0+'
